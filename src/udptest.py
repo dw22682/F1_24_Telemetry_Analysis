@@ -1,4 +1,7 @@
 import socket
+from PacketStructs import Packet
+
+x = Packet.Packet()
 
 PORT = 20777
 
